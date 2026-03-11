@@ -45,6 +45,8 @@ wrangler d1 create falohun-family-db
 ```
 ✅ Successfully created DB 'falohun-family-db'
 database_id = "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx"
+
+⭐️ database_id": "aafccf05-95b9-45d0-8e77-e8a11f3e2ad0"
 ```
 
 Update `backend/wrangler.toml` — replace `YOUR-DATABASE-ID` with this value:
