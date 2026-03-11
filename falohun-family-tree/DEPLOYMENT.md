@@ -93,7 +93,7 @@ wrangler r2 bucket create falohun-family-media
 Update `backend/wrangler.toml`:
 ```toml
 [vars]
-R2_PUBLIC_URL = "https://pub-YOUR-ID.r2.dev"  # ← Your R2 public URL
+R2_PUBLIC_URL = https://pub-8b87618ce4884d38b096fd1777b44457.r2.dev
 ```
 
 ---
