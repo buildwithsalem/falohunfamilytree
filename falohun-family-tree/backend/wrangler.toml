@@ -10,7 +10,7 @@ R2_PUBLIC_URL = "https://pub-YOUR-BUCKET-ID.r2.dev"
 [[d1_databases]]
 binding = "DB"
 database_name = "falohun-family-db"
-database_id = "YOUR-DATABASE-ID"
+database_id = "aafccf05-95b9-45d0-8e77-e8a11f3e2ad0"
 
 [[r2_buckets]]
 binding = "MEDIA_BUCKET"
